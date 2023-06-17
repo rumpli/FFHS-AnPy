@@ -8,10 +8,10 @@
 Table of Contents
 =================
 * [What is this about?](#what-is-this-about)
-* [Part 1 Rekursion mit Python anhand der Fibonacci Folge](#part-1-rekursion-mit-python-anhand-der-fibonacci-folge)
-* [Part 2 Erstellung von Graphiken mit Matplotlib](#part-2-erstellung-von-graphiken-mit-matplotlib)
-* [Part 3 Splines](#part-3-splines)
-* [Part 4 Numnerische Integration](#part-4-numerische-integration)
+  + [Part 1 Rekursion mit Python anhand der Fibonacci Folge](#part-1-rekursion-mit-python-anhand-der-fibonacci-folge)
+  + [Part 2 Erstellung von Graphiken mit Matplotlib](#part-2-erstellung-von-graphiken-mit-matplotlib)
+  + [Part 3 Splines](#part-3-splines)
+  + [Part 4 Numnerische Integration](#part-4-numerische-integration)
 * [Grades](#grades)
 * [More FFHS projects](#more-ffhs-projects)
 
