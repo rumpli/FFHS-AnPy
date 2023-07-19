@@ -37,7 +37,7 @@ Documentation & evaluation: [MyCloud](https://www.mycloud.ch/s/S00756AE9440E93F4
 - Part 1: 5.2
 - Part 2: 5.7
 - Part 3: 4.0
-- Part 4: tbd
+- Part 4: 5.5
 
 ### More FFHS projects
 
