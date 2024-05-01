@@ -14,13 +14,13 @@ def linear_interpolation(bases):
     linear_spline = np.interp(xpoints, xspline, yspline)
 
     # Sinus Kurve zeichnen
-    plt.plot(xpoints, ypoints, '--', label='sin(x)')
+    plt.plot(xpoints, ypoints, '-', label='sin(x)')
 
     # Punkte für die linearen Splines zeichnen
     plt.plot(xspline, yspline, 'o', label='Base')
 
     # Lineare Approximation zeichnen
-    plt.plot(xpoints, linear_spline, '-', label='Linear Spline', color='red')
+    plt.plot(xpoints, linear_spline, '--', label='Linear Spline', color='red')
 
     plt.grid(color='gray', linestyle='--')
     plt.axis([-1.5, 13 , -1.5, 1.5])

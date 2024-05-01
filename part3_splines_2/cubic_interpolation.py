@@ -15,13 +15,13 @@ def cubic_interpolation(bases, base_start=0, base_end=4 * np.pi):
     cubic_spline = CubicSpline(xspline, yspline)
 
     # Sinus Kurve zeichnen
-    plt.plot(xpoints, ypoints, '--', label='sin(x)')
+    plt.plot(xpoints, ypoints, '-', label='sin(x)')
 
-    # Punkte für die linearen Splines zeichnen
+    # Punkte für die Kubische Splines zeichnen
     plt.plot(xspline, yspline, 'o', label='Base')
 
     # Kubische Approximation zeichnen
-    plt.plot(xpoints, cubic_spline(xpoints), '-', label='Cubic Spline', color='red')
+    plt.plot(xpoints, cubic_spline(xpoints), '--', label='Cubic Spline', color='red')
 
     plt.grid(color='gray', linestyle='--')
     plt.axis([-1.5, 13 , -1.5, 1.5])
