@@ -39,6 +39,22 @@ Documentation & evaluation: [MyCloud](https://www.mycloud.ch/s/S00756AE9440E93F4
 - Part 3: 4.0
 - Part 4: 5.5
 
+### FS24
+
+#### Part 1 Rekursion mit Python anhand der Fibonacci Folge
+
+#### Part 2 Konvergenz-/Divergenzverhalten der allg. harmonischen Reihe
+
+#### Part 3 Splines + Interpolationspolynom
+
+#### Part 4 Numerische Integration (erweitert)
+
+#### Grades
+- Part 1: 5.3
+- Part 2: 5.1
+- Part 3: 5.0
+- Part 4: 5.5
+
 ### More FFHS projects
 
 FFHS directory: [MyCloud](https://www.mycloud.ch/s/S00735653476C6FF89DAE1C9D6F19C814A0FE9C6DC2)
