@@ -53,7 +53,7 @@ Documentation & evaluation: [MyCloud](https://www.mycloud.ch/s/S00756AE9440E93F4
 - Part 1: 5.3
 - Part 2: 5.1
 - Part 3: 5.0
-- Part 4: 5.5
+- Part 4: 5.0
 
 ### More FFHS projects
 
